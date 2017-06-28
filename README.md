@@ -6,7 +6,7 @@ a simple Matlab gui for annotating rotated grasping bounding box
 ## Example
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 
+[logo]: https://github.gatech.edu/fchu9/grasp_annotation_tool/blob/master/data/example.bmp 
 
 ## Usage
 
