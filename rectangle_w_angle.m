@@ -14,7 +14,7 @@ alpha=angle*2*pi/360;
 XY=[cos(alpha) -sin(alpha);sin(alpha) cos(alpha)]*R;
 
 XY = XY + repmat([x;y],1,5);
-hold on;plot(XY(1,:),XY(2,:),'r');
+hold on;plot(XY(1,:),XY(2,:),'r', 'LineWidth', 2);
 axis([0 640 0 480])
 
 end

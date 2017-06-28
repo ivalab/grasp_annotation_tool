@@ -50,7 +50,7 @@ for imgidx = 1:length(imgFiles)
         width = sqrt((x-x2)^2 + (y-y2)^2);
         angle = atan((y2-y)/(x2-x));
         angle = angle/pi*180;
-        plot([x x2], [y y2], '-ro', 'MarkerSize', 2);
+        plot([x x2], [y y2], '-ro', 'MarkerSize', 2, 'LineWidth', 2);
 
         % get height
         [x3 y3] = ginput(1);
