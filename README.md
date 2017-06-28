@@ -1,6 +1,6 @@
 # grasp_annotation_tool
 
-a simple Matlab gui for annotating rotated grasping bounding box  
+#### a simple Matlab GUI for annotating rotated grasping bounding box  
 ------
 
 ## Example
