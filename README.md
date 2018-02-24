@@ -6,7 +6,7 @@
 ## Example
 ![alt text][logo]
 
-[logo]: https://github.gatech.edu/fchu9/grasp_annotation_tool/blob/master/data/example.bmp 
+[logo]: https://github.com/ivalab/grasp_annotation_tool/blob/master/data/example.bmp
 
 ## Usage
 #### steps:
